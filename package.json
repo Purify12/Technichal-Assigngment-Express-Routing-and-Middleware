@@ -1,0 +1,26 @@
+{
+  "name": "technichal-assigngment-express-routing-and-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Purify12/Technichal-Assigngment-Express-Routing-and-Middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Purify12/Technichal-Assigngment-Express-Routing-and-Middleware/issues"
+  },
+  "homepage": "https://github.com/Purify12/Technichal-Assigngment-Express-Routing-and-Middleware#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
